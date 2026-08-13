@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel Blanco\\Desktop\\ASP.NET\\PrimerAsp01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB588C67-CF99-4FE2-98C3-BA09CE68135E}|PrimerAsp\\PrimerAsp.csproj|c:\\users\\gabriel blanco\\desktop\\asp.net\\primerasp01\\primerasp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FB588C67-CF99-4FE2-98C3-BA09CE68135E}|PrimerAsp\\PrimerAsp.csproj|solutionrelative:primerasp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB588C67-CF99-4FE2-98C3-BA09CE68135E}|PrimerAsp\\PrimerAsp.csproj|C:\\Users\\Gabriel Blanco\\Desktop\\ASP.NET\\PrimerAsp01\\primerasp\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FB588C67-CF99-4FE2-98C3-BA09CE68135E}|PrimerAsp\\PrimerAsp.csproj|solutionrelative:primerasp\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB588C67-CF99-4FE2-98C3-BA09CE68135E}|PrimerAsp\\PrimerAsp.csproj|C:\\Users\\Gabriel Blanco\\Desktop\\ASP.NET\\PrimerAsp01\\primerasp\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FB588C67-CF99-4FE2-98C3-BA09CE68135E}|PrimerAsp\\PrimerAsp.csproj|solutionrelative:primerasp\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB588C67-CF99-4FE2-98C3-BA09CE68135E}|PrimerAsp\\PrimerAsp.csproj|C:\\Users\\Gabriel Blanco\\Desktop\\ASP.NET\\PrimerAsp01\\primerasp\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{FB588C67-CF99-4FE2-98C3-BA09CE68135E}|PrimerAsp\\PrimerAsp.csproj|solutionrelative:primerasp\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB588C67-CF99-4FE2-98C3-BA09CE68135E}|PrimerAsp\\PrimerAsp.csproj|c:\\users\\gabriel blanco\\desktop\\asp.net\\primerasp01\\primerasp\\mimasternueva.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{FB588C67-CF99-4FE2-98C3-BA09CE68135E}|PrimerAsp\\PrimerAsp.csproj|solutionrelative:primerasp\\mimasternueva.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB588C67-CF99-4FE2-98C3-BA09CE68135E}|PrimerAsp\\PrimerAsp.csproj|c:\\users\\gabriel blanco\\desktop\\asp.net\\primerasp01\\primerasp\\masterhija.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FB588C67-CF99-4FE2-98C3-BA09CE68135E}|PrimerAsp\\PrimerAsp.csproj|solutionrelative:primerasp\\masterhija.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "masterHIJA.aspx",
+              "DocumentMoniker": "C:\\Users\\Gabriel Blanco\\Desktop\\ASP.NET\\PrimerAsp01\\PrimerAsp\\masterHIJA.aspx",
+              "RelativeDocumentMoniker": "PrimerAsp\\masterHIJA.aspx",
+              "ToolTip": "C:\\Users\\Gabriel Blanco\\Desktop\\ASP.NET\\PrimerAsp01\\PrimerAsp\\masterHIJA.aspx",
+              "RelativeToolTip": "PrimerAsp\\masterHIJA.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-13T22:31:00.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MiMasterNueva.Master",
+              "DocumentMoniker": "C:\\Users\\Gabriel Blanco\\Desktop\\ASP.NET\\PrimerAsp01\\PrimerAsp\\MiMasterNueva.Master",
+              "RelativeDocumentMoniker": "PrimerAsp\\MiMasterNueva.Master",
+              "ToolTip": "C:\\Users\\Gabriel Blanco\\Desktop\\ASP.NET\\PrimerAsp01\\PrimerAsp\\MiMasterNueva.Master",
+              "RelativeToolTip": "PrimerAsp\\MiMasterNueva.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-13T22:27:12.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Gabriel Blanco\\Desktop\\ASP.NET\\PrimerAsp01\\PrimerAsp\\Site.Master",
+              "RelativeDocumentMoniker": "PrimerAsp\\Site.Master",
+              "ToolTip": "C:\\Users\\Gabriel Blanco\\Desktop\\ASP.NET\\PrimerAsp01\\PrimerAsp\\Site.Master",
+              "RelativeToolTip": "PrimerAsp\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-13T03:57:03.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\Gabriel Blanco\\Desktop\\ASP.NET\\PrimerAsp01\\PrimerAsp\\About.aspx",
+              "RelativeDocumentMoniker": "PrimerAsp\\About.aspx",
+              "ToolTip": "C:\\Users\\Gabriel Blanco\\Desktop\\ASP.NET\\PrimerAsp01\\PrimerAsp\\About.aspx",
+              "RelativeToolTip": "PrimerAsp\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-13T04:11:25.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\Gabriel Blanco\\Desktop\\ASP.NET\\PrimerAsp01\\PrimerAsp\\Contact.aspx",
+              "RelativeDocumentMoniker": "PrimerAsp\\Contact.aspx",
+              "ToolTip": "C:\\Users\\Gabriel Blanco\\Desktop\\ASP.NET\\PrimerAsp01\\PrimerAsp\\Contact.aspx",
+              "RelativeToolTip": "PrimerAsp\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-12T06:05:41.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Gabriel Blanco\\Desktop\\ASP.NET\\PrimerAsp01\\PrimerAsp\\Default.aspx",
+              "RelativeDocumentMoniker": "PrimerAsp\\Default.aspx",
+              "ToolTip": "C:\\Users\\Gabriel Blanco\\Desktop\\ASP.NET\\PrimerAsp01\\PrimerAsp\\Default.aspx",
+              "RelativeToolTip": "PrimerAsp\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-13T04:11:12.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
